@@ -42,3 +42,17 @@ This is a **School Grade Management System** built using **.NET** technology. Th
 1. Clone the repository:
    ```bash
    git clone https://github.com/ParanovaFactory/Scohool_Grade_Management.git
+
+---
+
+## 👤 Author
+
+**Sadık Berkay Karaduman**  
+📧 [karadumansadikberkay@gmail.com](mailto:karadumansadikberkay@gmail.com)  
+🔗 [GitHub – ParanovaFactory](https://github.com/ParanovaFactory)
+
+---
+
+## 📄 License
+
+MIT License — Feel free to use, modify, and contribute.
